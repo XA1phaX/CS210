@@ -1,0 +1,15 @@
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\bin\Debug\net6.0\Unit02.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\bin\Debug\net6.0\Unit02.deps.json
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\bin\Debug\net6.0\Unit02.runtimeconfig.json
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\bin\Debug\net6.0\Unit02.dll
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\bin\Debug\net6.0\Unit02.pdb
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\Unit02.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\Unit02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\Unit02.AssemblyInfoInputs.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\Unit02.AssemblyInfo.cs
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\Unit02.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\Unit02.dll
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\refint\Unit02.dll
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\Unit02.pdb
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\Unit02.genruntimeconfig.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS 210\dice\Unit02\obj\Debug\net6.0\ref\Unit02.dll

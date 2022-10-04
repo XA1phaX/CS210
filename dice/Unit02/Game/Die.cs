@@ -7,6 +7,7 @@ namespace Unit02.Game
     // 1) Add the class declaration. Use the following class comment.
     // 2) Add the following private fields:
 
+
         /// <summary>
         /// A small cube with a different number of spots on each of its six sides.
         /// The responsibility of Die is to keep track of its currently rolled value and the points its
